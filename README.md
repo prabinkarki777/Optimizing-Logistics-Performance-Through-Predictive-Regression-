@@ -58,7 +58,7 @@ data.createOrReplaceTempView("amazon_delivery")
 The project includes comparative analysis of multiple regression models to assess logistics performance.
 
 ## Author
-Your Name
+Prabin Karki
 
 ## License
 This project is licensed under the MIT License.
